@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Launch Program",
             "program": "${workspaceFolder}\\intro_to_node\\buggy-script.js",
-            "args": ["./README.md", "./test"]
+            "args": ["./intro_to_node/README.md", "./test"]
         }
     ]
 }
